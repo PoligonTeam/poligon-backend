@@ -12,7 +12,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/PoligonTeam/poligon-backend">
-    <img src="https://cdn.discordapp.com/icons/704439884340920441/5a77af74e88273b63d9d69124217c5ea.png" alt="Logo" width="120" height="120">
+    <img src="https://poligon.lgbt/static/logo.png" alt="Logo" width="120" height="120">
   </a>
 
 <h3 align="center">poligon backend</h3>
