@@ -70,6 +70,7 @@ poligon backend is the backend of poligon.lgbt sharex uploader 😎
 * [Sanic](https://sanic.dev/)
 * [Tortoise-ORM](https://tortoise.github.io/)
 * [Pillow](https://python-pillow.org/)
+* [PostgreSQL](https://www.postgresql.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -85,7 +86,7 @@ Run `pip install -r requirements.txt` to install the requirements
 ### Installation
 1. Copy `config.py.example` and name it `config.py`
 2. Open `config.py` in your favourite text editor and fill in the required fields
-3. Run `python server` to start the bot
+3. Run `python server.py` to start the bot
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
