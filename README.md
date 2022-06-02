@@ -22,12 +22,12 @@
     <br />
     team to poligon
     <br />
-    <a href="https://docs.cenzurabot.com"><strong>Docs »</strong></a>
+    <a href="https://github.com/PoligonTeam/poligon-backend/wiki"><strong>Docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/PoligonTeam/cenzura/issues">Report a Bug</a>
+    <a href="https://github.com/PoligonTeam/poligon-backend/issues">Report a Bug</a>
     ·
-    <a href="https://github.com/PoligonTeam/cenzura/issues">Request a Feature</a>
+    <a href="https://github.com/PoligonTeam/poligon-backend/issues">Request a Feature</a>
   </p>
 </div>
 
@@ -104,7 +104,7 @@ Distributed under the Apache 2.0 License. See `LICENSE` for more information.
 
 PoligonTeam - [discord](https://discord.gg/tDQURnVtGC) - geje@poligon.lgbt
 
-Project Link: [https://github.com/PoligonTeam/cenzura](https://github.com/PoligonTeam/cenzura)
+Project Link: [https://github.com/PoligonTeam/poligon-backend](https://github.com/PoligonTeam/poligon-backend)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
