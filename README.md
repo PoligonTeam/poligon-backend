@@ -86,7 +86,7 @@ Run `pip install -r requirements.txt` to install the requirements
 ### Installation
 1. Copy `config.py.example` and name it `config.py`
 2. Open `config.py` in your favourite text editor and fill in the required fields
-3. Run `python server.py` to start the bot
+3. Run `python server.py` to start the server
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
