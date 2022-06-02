@@ -119,8 +119,8 @@ Project Link: [https://github.com/PoligonTeam/cenzura](https://github.com/Poligo
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-[codefactor-shield]: https://www.codefactor.io/repository/github/poligonteam/poligon-backend/badge/preview
-[codefactor-url]: https://www.codefactor.io/repository/github/poligonteam/poligon-backend/overview/preview
+[codefactor-shield]: https://www.codefactor.io/repository/github/poligonteam/poligon-backend/badge
+[codefactor-url]: https://www.codefactor.io/repository/github/poligonteam/poligon-backend
 [contributors-shield]: https://img.shields.io/github/contributors/PoligonTeam/poligon-backend.svg
 [contributors-url]: https://github.com/PoligonTeam/poligon-backend/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/PoligonTeam/poligon-backend.svg
